@@ -25,3 +25,10 @@ hm/
 
 *.xlsx
 *.docx
+High_margin.code-workspace
+*.zip
+chromedriver-mac-arm64
+chromedriver
+ssh-remote+34.31.142.51:.inetloc
+*.txt
+*.json
