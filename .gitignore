@@ -14,4 +14,13 @@ data/
 
 # Ignore system files
 .DS_Store
+*.csv
+*.png
+/selenium
+__pycache__/
+*.txt
+.env
+.vscode/
+/hm
+
 
