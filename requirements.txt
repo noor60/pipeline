@@ -1,3 +1,8 @@
+# Margin^high1995
 pandas
 numpy
 openpyxl
+requests
+scikit-learn
+seaborn
+kneed
