@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 import numpy as np
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-
+from plotly.offline import init_notebook_mode, iplot
 import numpy as np
 print(np.__version__)
 data = pd.read_csv("./data/april_28_new.csv", parse_dates=["WeekStartDate"])
